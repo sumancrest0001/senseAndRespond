@@ -22,7 +22,7 @@ This is assignment from sense and respond for the front end developer position.
 - http://localhost:3000/comments for comment page
 
 ### [Live demo](https://65bf9137e5d39f5ae09ad707--willowy-tiramisu-4433d8.netlify.app/)
-
+### [short demo video](https://www.loom.com/share/78e2832b490a493caf4e74ac68f4a0f9?sid=38cf0bed-4ec6-4d45-ada8-4ab95e3074f5)
 ### [Screenshot2](public/images/1.png "signin")
 ### [Screenshot2](public/images/2.png "signup")
 ### [Screenshot2](public/images/3.png "comments")
